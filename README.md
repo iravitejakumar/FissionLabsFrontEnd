@@ -1,3 +1,21 @@
+# UI Images
+
+## upload csv page.
+
+><img src="https://github.com/iravitejakumar/FissionLabsFrontEnd/blob/master/Screen%20Shot%202017-12-05%20at%207.44.57%20PM.png">
+
+## Generated Line Chart Link.
+
+><img src="https://github.com/iravitejakumar/FissionLabsFrontEnd/blob/master/Screen%20Shot%202017-12-05%20at%207.45.06%20PM.png">
+
+## Line Chart Page and Getting data from Server.
+
+
+><img src="https://github.com/iravitejakumar/FissionLabsFrontEnd/blob/master/Screen%20Shot%202017-12-05%20at%207.45.11%20PM.png">
+
+
+# SetUp Steps
+
 # FrontEndApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
@@ -26,3 +44,4 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
