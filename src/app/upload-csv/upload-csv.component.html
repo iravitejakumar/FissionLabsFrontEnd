@@ -1,0 +1,15 @@
+<div class="center-align">
+
+    <div>
+        <div class="info" *ngIf="info">Please Upload your CSV file to generate line chart link.</div>
+        <div class="loader" *ngIf="loader">Please wait while we generate chart link.......</div>
+        <div class="link" *ngIf="isLink">
+            click here : 
+            <a [routerLink]="['../linechart',linkID]">{{generatedLink}}{{linkID}}</a>
+        </div>
+        <label class='fileContainer'>
+            UPLOAD YOUR CSV FILE HERE
+            <input type="file" #fileInput (change)="fnUploadCSV($event)" />
+        </label>
+    </div>
+</div>
